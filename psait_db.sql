@@ -17,8 +17,6 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `name`, `email`) VALUES
 (2, 'Tantowi Shah ', 'tantows001@gmail.com');
-INSERT INTO `users` (`id`, `name`, `email`) VALUES
-(3, 'kontol', 'asdasda@gmail.com');
 
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
